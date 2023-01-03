@@ -1,0 +1,3 @@
+id   ,   Country    ,     Port Name     ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,    Type     ,  Area Local  ,    Area Global     ,  Also known as 
+285  ,  Bangladesh  ,  CHITTAGONG ANCH  ,   null    ,        75         ,             22              ,            18             ,          0          ,  Anchorage  ,  Bengal Bay  ,  East Coast India  ,       null     
+348  ,  Bangladesh  ,    CHITTAGONG     ,   BDCGP   ,        64         ,             17              ,            13             ,         105         ,    Port     ,  Bengal Bay  ,  East Coast India  ,  "[CHATTOGRAM]"

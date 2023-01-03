@@ -1,0 +1,4 @@
+id   ,  Country  ,  Port Name  ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,  Area Local  ,  Area Global  ,                 Also known as                
+120  ,  Sweden   ,  STOCKHOLM  ,   SESTO   ,        144        ,             98              ,            100            ,          6          ,  Port  ,  Baltic Sea  ,  Baltic Sea   ,                      null                    
+472  ,  Sweden   ,  LANGEDRAG  ,   SELGD   ,        52         ,             58              ,            75             ,          0          ,  Port  ,   Kattegat   ,  Baltic Sea   ,                 "[SALTHOLMEN]"               
+187  ,  Sweden   ,  GOTEBORG   ,   SEGOT   ,        103        ,             52              ,            63             ,         25          ,  Port  ,   Kattegat   ,  Baltic Sea   ,  "[GOTHENBURG,  GOTENBURG,  GOETEBORG,  GBG]"

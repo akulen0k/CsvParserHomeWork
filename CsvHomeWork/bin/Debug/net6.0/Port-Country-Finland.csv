@@ -1,0 +1,3 @@
+id   ,  Country  ,  Port Name  ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,   Area Local   ,  Area Global  ,  Also known as
+265  ,  Finland  ,  HELSINKI   ,   FIHEL   ,        80         ,             101             ,            123            ,         13          ,  Port  ,  Finland Gulf  ,  Baltic Sea   ,      null     
+425  ,  Finland  ,    TURKU    ,   FITKU   ,        56         ,             10              ,            14             ,          2          ,  Port  ,  Bothnia Gulf  ,  Baltic Sea   ,     "[ABO]"   

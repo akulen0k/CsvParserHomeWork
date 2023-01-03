@@ -1,0 +1,8 @@
+id   ,  Country  ,   Port Name   ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,    Area Local     ,    Area Global    ,  Also known as
+402  ,  Norway   ,  KJOLLEFJORD  ,   NOKJF   ,        59         ,             13              ,             9             ,          0          ,  Port  ,  Norwegian Coast  ,  Norwegian Coast  ,      null     
+262  ,  Norway   ,    BERGEN     ,   NOBGO   ,        81         ,             66              ,            70             ,         19          ,  Port  ,     North Sea     ,  Norwegian Coast  ,  "[DAMSGARD]" 
+181  ,  Norway   ,     OSLO      ,   NOOSL   ,        107        ,             73              ,            81             ,         13          ,  Port  ,     Skagerrak     ,  Norwegian Coast  ,      null     
+322  ,  Norway   ,   BATSFJORD   ,   NOBJF   ,        68         ,             17              ,            15             ,          6          ,  Port  ,  Norwegian Coast  ,  Norwegian Coast  ,      null     
+263  ,  Norway   ,    TROMSO     ,   NOTOS   ,        81         ,             38              ,            55             ,         10          ,  Port  ,  Norwegian Coast  ,  Norwegian Coast  ,   "[TROMSE]"  
+295  ,  Norway   ,     MYRE      ,   NOMYR   ,        73         ,             18              ,            13             ,          5          ,  Port  ,  Norwegian Coast  ,  Norwegian Coast  ,      null     
+310  ,  Norway   ,   STAVANGER   ,   NOSVG   ,        70         ,             95              ,            113            ,         11          ,  Port  ,     North Sea     ,  Norwegian Coast  ,      null     

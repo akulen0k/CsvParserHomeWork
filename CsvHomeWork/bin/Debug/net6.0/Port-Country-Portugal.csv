@@ -1,0 +1,4 @@
+id   ,  Country   ,  Port Name  ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,      Area Local       ,      Area Global      ,  Also known as 
+397  ,  Portugal  ,  PORTIMAO   ,   PTPRM   ,        59         ,             26              ,            22             ,          7          ,  Port  ,  UK Coast & Atlantic  ,  UK Coast & Atlantic  ,       null     
+204  ,  Portugal  ,   LISBOA    ,   PTLIS   ,        95         ,             158             ,            173            ,         20          ,  Port  ,  UK Coast & Atlantic  ,  UK Coast & Atlantic  ,    "[LISBON]"  
+360  ,  Portugal  ,   LEIXOES   ,   PTLEI   ,        63         ,             66              ,            55             ,         28          ,  Port  ,  UK Coast & Atlantic  ,  UK Coast & Atlantic  ,  "[MATOSINHOS]"

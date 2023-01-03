@@ -1,0 +1,5 @@
+id   ,  Country  ,   Port Name   ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,  Area Local  ,  Area Global  ,  Also known as
+190  ,  Poland   ,    GDYNIA     ,   PLGDY   ,        102        ,             54              ,            48             ,         26          ,  Port  ,  Baltic Sea  ,  Baltic Sea   ,      null     
+117  ,  Poland   ,    GDANSK     ,   PLGDN   ,        145        ,             75              ,            92             ,         36          ,  Port  ,  Baltic Sea  ,  Baltic Sea   ,      null     
+180  ,  Poland   ,   SZCZECIN    ,   PLSZZ   ,        107        ,             18              ,            24             ,         17          ,  Port  ,  Baltic Sea  ,  Baltic Sea   ,   "[STETTIN]" 
+442  ,  Poland   ,  SWINOUJSCIE  ,   PLSWI   ,        54         ,             40              ,            30             ,         11          ,  Port  ,  Baltic Sea  ,  Baltic Sea   ,      null     

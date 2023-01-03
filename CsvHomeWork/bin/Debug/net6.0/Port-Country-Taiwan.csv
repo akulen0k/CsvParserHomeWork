@@ -1,0 +1,5 @@
+id   ,  Country  ,    Port Name     ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,    Type     ,    Area Local    ,  Area Global  ,            Also known as           
+34   ,  Taiwan   ,    KAOHSIUNG     ,   TWKHH   ,        372        ,             112             ,            113            ,         116         ,    Port     ,   South China    ,  South China  ,  "[KAO HSIUNG,  TWKSG,  KAO,  KHH]"
+357  ,  Taiwan   ,  KAOHSIUNG ANCH  ,   null    ,        64         ,             36              ,            32             ,          0          ,  Anchorage  ,   South China    ,  South China  ,                 null               
+111  ,  Taiwan   ,     TAICHUNG     ,   TWTXG   ,        148        ,             112             ,            70             ,         67          ,    Port     ,  East China Sea  ,  South China  ,            "[TAI CHUNG]"           
+432  ,  Taiwan   ,      TAIPEI      ,   TWTPE   ,        55         ,             13              ,            15             ,         26          ,    Port     ,  East China Sea  ,  South China  ,             "[TAI PEI]"            

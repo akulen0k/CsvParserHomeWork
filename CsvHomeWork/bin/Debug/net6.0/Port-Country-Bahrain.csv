@@ -1,0 +1,4 @@
+id   ,  Country  ,  Port Name  ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,   Area Local   ,  Area Global   ,   Also known as 
+237  ,  Bahrain  ,  MUHARRAQ   ,   BHGBQ   ,        87         ,              8              ,             6             ,          1          ,  Port  ,  Persian Gulf  ,  Arabian Gulf  ,  "[AL MUHARRAQ]"
+194  ,  Bahrain  ,   SITRAH    ,   BHSIT   ,        100        ,             44              ,            41             ,          6          ,  Port  ,  Persian Gulf  ,  Arabian Gulf  ,     "[SITRA]"   
+419  ,  Bahrain  ,   GALALI    ,   BHQAL   ,        57         ,              2              ,             1             ,          0          ,  Port  ,  Persian Gulf  ,  Arabian Gulf  ,    "[QALALI]"   

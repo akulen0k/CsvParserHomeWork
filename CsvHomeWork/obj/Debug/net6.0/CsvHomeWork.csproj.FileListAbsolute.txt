@@ -1,0 +1,15 @@
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\bin\Debug\net6.0\CsvHomeWork.exe
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\bin\Debug\net6.0\CsvHomeWork.deps.json
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\bin\Debug\net6.0\CsvHomeWork.runtimeconfig.json
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\bin\Debug\net6.0\CsvHomeWork.dll
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\bin\Debug\net6.0\CsvHomeWork.pdb
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.csproj.AssemblyReference.cache
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.AssemblyInfoInputs.cache
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.AssemblyInfo.cs
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.dll
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\refint\CsvHomeWork.dll
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.pdb
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\CsvHomeWork.genruntimeconfig.cache
+C:\Users\andrey\RiderProjects\CvsHomeWork\CsvHomeWork\obj\Debug\net6.0\ref\CsvHomeWork.dll

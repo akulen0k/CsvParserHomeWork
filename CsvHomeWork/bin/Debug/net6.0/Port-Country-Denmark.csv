@@ -1,0 +1,8 @@
+id   ,  Country  ,  Port Name   ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,  Area Local  ,      Area Global      ,        Also known as       
+398  ,  Denmark  ,  HANSTHOLM   ,   DKHAN   ,        59         ,              9              ,            31             ,          6          ,  Port  ,  North Sea   ,  UK Coast & Atlantic  ,             null           
+465  ,  Denmark  ,   AALBORG    ,   DKAAL   ,        52         ,              9              ,            22             ,          7          ,  Port  ,   Kattegat   ,  UK Coast & Atlantic  ,       "[NORRESUNDBY]"      
+455  ,  Denmark  ,  GILLELEJE   ,   DKGLE   ,        53         ,             19              ,            26             ,          4          ,  Port  ,   Kattegat   ,      Baltic Sea       ,             null           
+132  ,  Denmark  ,  COPENHAGEN  ,   DKCPH   ,        137        ,             43              ,            53             ,          7          ,  Port  ,   Kattegat   ,      Baltic Sea       ,  "[KOBENHAVN,  KOEBENHAVN]"
+374  ,  Denmark  ,  HIRTSHALS   ,   DKHIR   ,        62         ,             24              ,            46             ,         10          ,  Port  ,   Kattegat   ,  UK Coast & Atlantic  ,             null           
+415  ,  Denmark  ,   ESBJERG    ,   DKEBJ   ,        57         ,             60              ,            69             ,         15          ,  Port  ,  North Sea   ,  UK Coast & Atlantic  ,             null           
+332  ,  Denmark  ,    SKAGEN    ,   DKSKA   ,        66         ,             28              ,            44             ,         37          ,  Port  ,   Kattegat   ,      Baltic Sea       ,           "[SKAW]"         

@@ -1,0 +1,3 @@
+id   ,  Country  ,  Port Name  ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,     Area Local     ,    Area Global     ,  Also known as
+236  ,  Ukraine  ,   IZMAIL    ,   UAIZM   ,        87         ,             18              ,            17             ,         19          ,  Port  ,     Black Sea      ,     Black Sea      ,      null     
+304  ,  Ukraine  ,    RENI     ,   UARNI   ,        71         ,              3              ,             5             ,         14          ,  Port  ,  "Inland, Europe"  ,  "Inland, Europe"  ,      null     

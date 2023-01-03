@@ -1,0 +1,3 @@
+id   ,  Country  ,  Port Name   ,  UN Code  ,  Vessels in Port  ,  Departures(Last 24 Hours)  ,  Arrivals(Last 24 Hours)  ,  Expected Arrivals  ,  Type  ,      Area Local      ,     Area Global      ,         Also known as       
+162  ,   Malta   ,  MARSAMXETT  ,   MTMSX   ,        115        ,             31              ,            31             ,          0          ,  Port  ,  West Mediterranean  ,  West Mediterranean  ,             null            
+140  ,   Malta   ,   VALLETTA   ,   MTMLA   ,        128        ,             61              ,            67             ,         30          ,  Port  ,  West Mediterranean  ,  West Mediterranean  ,  "[VALETTA,  VALLETA,  VLT]"
